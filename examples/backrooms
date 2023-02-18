@@ -1,0 +1,6 @@
+backrooms:execute()
+function SpawnBacteria(frequent)
+Bacteria.Killable = false
+Bacteria:Spawn(withmanufacter, honeycomb?=true)
+Bacteria.IsKilled(IsKilled?=false)
+backrooms.playsound()
