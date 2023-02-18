@@ -1,0 +1,12 @@
+import Raytek
+ggg.function = empty
+trace = all_objects
+# adding the trace options menu
+workplace.ui:instance.new(trace_options_menu)
+# adding the loading screen
+instance.new(loading_screen)
+loading_screen.type = honeycomb_default # types: honeycomb_default, old, vintage
+# adding the entire trace function
+trace_id = 866666666itraxe
+trace_type = tek.tracerhc
+(end
