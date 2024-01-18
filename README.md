@@ -1,8 +1,8 @@
-<a href="https://github.com/max96git/honeycomb" target="_blank">
+ <a href="https://github.com/max96git/honeycomb" target="_blank">
   <img src="assets/images/honeycomb.ico" alt="max96git" />
 </a>
 
 # .honeycomb
 .honeycomb is an in-development programming language.
 # Downloads
-[Download honeycomb editor (google drive)](https://drive.google.com/file/d/1yn0Uby3lBqXWKUizOrq4x7YQ32MVyXec/view)
+[Download .honeycomb editor](https://www.mediafire.com/file/v1bo2xn7o88itm8/.honeycomb+editor+setup.exe/file)
