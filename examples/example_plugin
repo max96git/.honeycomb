@@ -1,11 +1,11 @@
 honeycomb:define()
 workcode.plugin:GetService()
-id = _00000i8998i_
+id = 2fa-384830s485j59-485dj
 mine:code()
 id.parent = workplace.honeycomb.ids
  or
 id.parent = workplace:instance.new(id_folder, foss)
 honeycomb:instance.new(icon,id = assets/images/honeycomb)
 (end)))
-directory = plugins/ado
+directory = plugins/adoexample
 (end))))
