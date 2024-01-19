@@ -5,4 +5,4 @@
 # .honeycomb
 .honeycomb is an in-development programming language.
 # Downloads
-[Download .honeycomb editor](https://www.mediafire.com/file/v1bo2xn7o88itm8/.honeycomb+editor+setup.exe/file)
+**[Download .honeycomb editor](https://www.mediafire.com/file/v1bo2xn7o88itm8/.honeycomb+editor+setup.exe/file)**
