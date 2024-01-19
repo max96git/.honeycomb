@@ -1,5 +1,5 @@
  <a href="https://github.com/max96git/honeycomb" target="_blank">
-  <img src="assets/images/honeycomb2024.ico" alt="max96git" />
+  <img src="assets/images/honeycomb_genius2024.ico" alt="max96git" />
 </a>
 
 # .honeycomb
